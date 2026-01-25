@@ -6,9 +6,9 @@ To-Do List
 - [ ] Airburst Ammunition (Finished! Will be added in next major update)
 - [ ] Burrowing Ammunition (Finished! Will be added in next major update)
 - [ ] Explosive Ammunition (Finished! Will be added in next major update)
-- [ ] High Precision Ammunition (In Progress)
-- [ ] High Velocity Ammunition (In Progress)
-- [ ] Hyper Expansive Ammunition (In Progress)
+- [ ] High Precision Ammunition (Finished! Will be added in next major update)
+- [ ] High Velocity Ammunition (Finished! Will be added in next major update)
+- [ ] Hyper Expansive Ammunition (Finished! Will be added in next major update)
 - [ ] Serrated Arrow/Hollow Point Ammunition (In Progress)
 - [ ] Tracer Ammunition (In Progress)
 
