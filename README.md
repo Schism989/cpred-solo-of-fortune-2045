@@ -1,3 +1,3 @@
 To Do List:
 
-- Ammunition Types
+- [ ] Ammunition Types
