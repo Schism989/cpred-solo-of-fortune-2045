@@ -1,0 +1,51 @@
+{
+  "id": "cyberpunk-red-solo-of-fortune-2045",
+  "title": "Cyberpunk RED - Solo of Fortune 2045",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "cyberpunk-red-core",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Schism",
+      "discord": "schism_989",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "solo-of-fortune-2045-items",
+      "label": "Solo of Fortune 2045 - Items",
+      "path": "packs/solo-of-fortune-2045-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "cyberpunk-red-core",
+      "flags": {}
+    },
+    {
+      "name": "solo-of-fortune-2045-tables",
+      "label": "Solo of Fortune 2045 - Tables",
+      "path": "packs/solo-of-fortune-2045-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "cyberpunk-red-core",
+      "flags": {}
+    }
+  ]
+}
