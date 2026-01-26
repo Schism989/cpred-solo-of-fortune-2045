@@ -2,15 +2,15 @@ To-Do List
 
 ### Ammo
 
-- [ ] Airhypo Ammunition (Finished! Will be added in next major update)
-- [ ] Airburst Ammunition (Finished! Will be added in next major update)
-- [ ] Burrowing Ammunition (Finished! Will be added in next major update)
-- [ ] Explosive Ammunition (Finished! Will be added in next major update)
-- [ ] High Precision Ammunition (Finished! Will be added in next major update)
-- [ ] High Velocity Ammunition (Finished! Will be added in next major update)
-- [ ] Hyper Expansive Ammunition (Finished! Will be added in next major update)
-- [ ] Serrated Arrow/Hollow Point Ammunition (Finished! Will be added in next major update)
-- [ ] Tracer Ammunition (Finished! Will be added in next major update)
+- [X] Airhypo Ammunition 
+- [X] Airburst Ammunition 
+- [X] Burrowing Ammunition 
+- [X] Explosive Ammunition 
+- [X] High Precision Ammunition (
+- [X] High Velocity Ammunition 
+- [X] Hyper Expansive Ammunition 
+- [X] Serrated Arrow/Hollow Point Ammunition 
+- [X] Tracer Ammunition 
 
 ### Armor
 
