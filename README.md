@@ -9,8 +9,8 @@ To-Do List
 - [ ] High Precision Ammunition (Finished! Will be added in next major update)
 - [ ] High Velocity Ammunition (Finished! Will be added in next major update)
 - [ ] Hyper Expansive Ammunition (Finished! Will be added in next major update)
-- [ ] Serrated Arrow/Hollow Point Ammunition (In Progress)
-- [ ] Tracer Ammunition (In Progress)
+- [ ] Serrated Arrow/Hollow Point Ammunition (Finished! Will be added in next major update)
+- [ ] Tracer Ammunition (Finished! Will be added in next major update)
 
 ### Armor
 
