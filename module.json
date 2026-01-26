@@ -1,7 +1,7 @@
 {
   "id": "cyberpunk-red-solo-of-fortune-2045",
   "title": "Cyberpunk RED - Solo of Fortune 2045",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -28,24 +28,22 @@
       "label": "Solo of Fortune 2045 - Items",
       "path": "packs/solo-of-fortune-2045-items",
       "type": "Item",
+      "system": "cyberpunk-red-core",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "cyberpunk-red-core",
-      "flags": {}
+      }
     },
     {
       "name": "solo-of-fortune-2045-tables",
       "label": "Solo of Fortune 2045 - Tables",
       "path": "packs/solo-of-fortune-2045-tables",
       "type": "RollTable",
+      "system": "cyberpunk-red-core",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "cyberpunk-red-core",
-      "flags": {}
+      }
     }
   ],
   "description": "An attempt to recreate Solo of Fortune 2045 for the Cyberpunk RED Foundry system.",
