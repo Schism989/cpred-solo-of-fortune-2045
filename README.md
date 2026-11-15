@@ -100,3 +100,6 @@ To-Do List
 ## Additional Notes:
 
 ACPA functionality is not planned until later development. As such, I have made a workaround. Head SP is ACPA HP, Body SP is ACPA Armor.
+
+## Sanctum SOF-45
+Check out Sanctum's version of the module here, which has more functionality. A lot of what is built there uses much of what I set up here. https://github.com/Alts-cuddles/sanctum-sof45
